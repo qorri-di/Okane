@@ -1,4 +1,4 @@
-package com.eksad.ddms.helpers;
+package com.okane.common.helpers;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

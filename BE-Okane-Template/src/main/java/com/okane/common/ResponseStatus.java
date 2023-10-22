@@ -1,4 +1,4 @@
-package com.eksad.ddms.common;
+package com.okane.common;
 
 import java.util.Arrays;
 
